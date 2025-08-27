@@ -1,3 +1,3 @@
 # Ninad
 first repository<br>
-Author - Ninad Vande
+Author - Ninad Vande(Student)
